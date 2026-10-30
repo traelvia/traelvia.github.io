@@ -8,6 +8,8 @@ Publish the contents of this directory from the `traelvia.github.io` GitHub Page
 
 ## App Store Connect URLs
 
+The canonical metadata mapping and submission checklist live in `../appstore/METADATA-URLS.md`.
+
 - Marketing URL: `https://traelvia.github.io/`
 - Support URL: `https://traelvia.github.io/support.html`
 - Privacy Policy URL: `https://traelvia.github.io/privacy.html`
